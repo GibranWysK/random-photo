@@ -8,7 +8,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: cornflowerblue;
+  background: linear-gradient(to right, #ff7e5f, #7b88fe);
+
   font-family: Arial, Helvetica, sans-serif;
 }
 
